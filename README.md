@@ -4,7 +4,12 @@
 
 [📚 Documentation](https://pulsar.apache.org/docs/)
 
-## 🗣️ Community
+## 🗣 Community
+
+- [GitHub Discussions](https://github.com/apache/pulsar/discussions) is a right place to ask a question or suggest an idea.
+- [StackOverflow](https://stackoverflow.com/questions/ask?tags=apache-pulsar) is also a good place to ask a question. Use `apache-pulsar` tag.
+- [🐞 GitHub Issues](https://github.com/apache/pulsar/issues) is a right place to submit a bug report.
+- [Slack](https://communityinviter.com/apps/apache-pulsar/apache-pulsar) is a place for instance chatting. **If you want to ask a question, please consider one of the resources listed above. Slack isn't indexable by Google and it's history is limited to 90 days in free plan.**
 
 ## 📘 Books
 
@@ -24,7 +29,7 @@
 - [Helm charts by StreamNative](https://github.com/streamnative/charts)
 - [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
 
-## 👩‍🔧🧑‍🔧 Support providers
+## 🛟 Support providers
 
 - [StreamNative Cloud](https://streamnative.io)
 - [DataStax](https://datastax.com)
