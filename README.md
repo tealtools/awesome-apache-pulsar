@@ -11,7 +11,7 @@
 
 ## 📺 Videos
 
-## Managed solutions
+## ☁️ Managed solutions
 
 - [StreamNative Cloud](https://streamnative.io/product)
 - [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
@@ -22,7 +22,7 @@
 - [DataStax](https://datastax.com)
 - [Dattell](https://dattell.com/)
 
-## Benchmarks
+## 🏁 Benchmarks
 
 - [Apache Pulsar vs. Apache Kafka 2022 Benchmark](https://streamnative.io/blog/apache-pulsar-vs-apache-kafka-2022-benchmark) by StreamNative
 
