@@ -33,6 +33,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ## Deployment
 
+- [🐳 Official Docker container](https://hub.docker.com/r/apachepulsar/pulsar-all)
 - [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
 - [Helm charts by StreamNative](https://github.com/streamnative/charts)
 - [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
