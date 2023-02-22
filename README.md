@@ -4,6 +4,8 @@
 
 [📚 Documentation](https://pulsar.apache.org/docs/)
 
+## 🗣️ Community
+
 ## 📘 Books
 
 - [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
@@ -11,12 +13,18 @@
 
 ## 📺 Videos
 
-## ☁️ Managed solutions
+## Managed solutions
 
 - [StreamNative Cloud](https://streamnative.io/product)
 - [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
 
-## Support providers
+## Deployment
+
+- [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
+- [Helm charts by StreamNative](https://github.com/streamnative/charts)
+- [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
+
+## 👩‍🔧🧑‍🔧 Support providers
 
 - [StreamNative Cloud](https://streamnative.io)
 - [DataStax](https://datastax.com)
@@ -26,9 +34,4 @@
 
 - [Apache Pulsar vs. Apache Kafka 2022 Benchmark](https://streamnative.io/blog/apache-pulsar-vs-apache-kafka-2022-benchmark) by StreamNative
 
-## Deployment
-
-- [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
-- [Helm charts by StreamNative](https://github.com/streamnative/charts)
-- [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
 
