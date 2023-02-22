@@ -26,6 +26,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ## 📺 Videos
 
+- [YouTube playlists by StreamNative](https://www.youtube.com/@streamnative7594/playlists)
+
 ## Managed solutions
 
 - [StreamNative Cloud](https://streamnative.io/product)
