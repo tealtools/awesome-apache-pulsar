@@ -1,5 +1,8 @@
 # awesome-pulsar
 
+## Books
+
+- [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by David Kjerrumgaard. 400 pages. Released in 2021.
 
 ## Videos
 
