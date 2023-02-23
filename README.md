@@ -173,6 +173,17 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [StreamNative YouTube channel](https://www.youtube.com/@streamnative7594/)
 
+- [StreamNative Academy Introduction to Pulsar](https://www.youtube.com/playlist?list=PLqRma1oIkcWgGor5OKLwkTxFG9mdAvmnK)
+  - [Pulsar Benefits](https://youtu.be/YjlXAzCvX8c)
+  - [Common Use Cases](https://youtu.be/aIDknI3aFTo)
+  - [How Pulsar uses the Pub-Sub Model](https://youtu.be/68BWY-0bLIQ)
+  - [Introduction to Pulsar Subscriptions](https://youtu.be/hf3DDcw5xt4)
+  - [Introduction to Pulsar API](https://youtu.be/6yafKl7TiSc)
+  - [Introduction to Multi-Tenancy in Pulsar](https://youtu.be/A_yxr7yIfc8)
+  - [What is Apache Pulsar?](https://youtu.be/i3PqXVEB43g)
+  - [Benefits of using Apache Pulsar](https://youtu.be/c0Z3d-Auvqc)
+  - [Multi-layered Architecture](https://youtu.be/8X_mUPwfCUY)
+
 - [StreamNative Academy](https://www.youtube.com/playlist?list=PLqRma1oIkcWjkpm1-0ox-BFJdVBsgZwPU)
   - [Welcome to StreamNative Academy](https://youtu.be/272GjyCTaXw)
   - [Introduction to Apache Pulsar](https://youtu.be/DTpVz7eZ3DI)
