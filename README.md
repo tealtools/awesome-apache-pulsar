@@ -11,7 +11,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 ## 🗣 Community
 
 - [GitHub Discussions](https://github.com/apache/pulsar/discussions) is a right place to ask a question or suggest an idea.
-- [StackOverflow](https://stackoverflow.com/questions/ask?tags=apache-pulsar) is also a good place to ask a question. Use `apache-pulsar` tag.
+- [StackOverflow](https://stackoverflow.com/questions/ask?tags=apache-pulsar) is also a good place to ask a question. Please use the `apache-pulsar` tag.
 - [🐞 GitHub Issues](https://github.com/apache/pulsar/issues) is a right place to submit a bug report.
 - [Slack](https://communityinviter.com/apps/apache-pulsar/apache-pulsar) is a good place to ask a quick question or reach specific people via DM.
   
