@@ -4,8 +4,8 @@
 
 Apache® Pulsar™ is an open-source, distributed messaging and streaming platform built for the cloud.
 
-<a href="https://sessionize.com/pulsar-virtual-summit-europe-2023">
-<img src="https://raw.githubusercontent.com/tealtools/awesome-apache-pulsar/main/announcement.svg" />
+<a href="https://sessionize.com/pulsar-virtual-summit-europe-2023" target="_blank">
+  <img src="https://raw.githubusercontent.com/tealtools/awesome-apache-pulsar/main/announcement.svg" />
 </a>
 
 [🏠 Official website](https://pulsar.apache.org/)
