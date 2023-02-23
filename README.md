@@ -83,7 +83,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Kafka on Pulsar: Bringing native Kafka protocol support to Pulsar](https://youtu.be/QYXKFPvayjs). Pierre Zemb, Sijie Guo.
   - [Event propagation across microservices using Pulsar and CDC](https://youtu.be/uNopXedhM9Q). Maheedhar Gunturu, Eyal Gutkind.
   - [The first step to Multi AZ architecture for Apache BookKeeper](https://youtu.be/5B_2SNAUkNk). Anup Ghatage, Ankit Jain.
-  - [Introducing HerdDB : a distributed JVM embeddable database built upon Apache BookKeeper](https://youtu.be/K7xQZ9V9Ml0). Enrico.
+  - [Introducing HerdDB : a distributed JVM embeddable database built upon Apache BookKeeper](https://youtu.be/K7xQZ9V9Ml0). Enrico Olivelli.
   - [Pulsar Storage on BookKeeper: Seamless Evolution](https://youtu.be/jCio-rwKHjk). Joe Francis, Rajan Dhabalia.
   - [Pulsar Functions Deep Dive](https://youtu.be/EHoh_0Inxk8). Sanjeev Kulkarni.
   - [Streaming, Fast and Slow](https://youtu.be/An7QAdy9MH4). Caito Scherr.
