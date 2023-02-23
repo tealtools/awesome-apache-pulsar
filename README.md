@@ -1,6 +1,6 @@
 **Pulsar Virtual Summit Europe 2023 will take place on May 23rd, 2023.**  CFP is open now! 
 
-[💌 Submit your session](https://sessionize.com/pulsar-virtual-summit-europe-2023)
+[Submit your session](https://sessionize.com/pulsar-virtual-summit-europe-2023)
 
 # Awesome Apache Pulsar
 
