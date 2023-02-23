@@ -14,11 +14,6 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 [📝 Release notes](https://pulsar.apache.org/release-notes/)
 
-## 📘 Books
-
-- [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
-- [Mastering Apache Pulsar: Cloud Native Event Streaming at Scale](https://www.goodreads.com/book/show/58230349-mastering-apache-pulsar) by [Jowanza Joseph](https://twitter.com/Jowanza). 240 pages. Released in 2022.
-
 ## 🗣 Community
 
 - [GitHub Discussions](https://github.com/apache/pulsar/discussions) is a right place to ask a question or suggest an idea.
@@ -29,6 +24,27 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   **If you want to ask a question, please consider one of the resources listed above. Slack isn't indexable by Google and it's history is limited to 90 days in free plan.**
 
 - [Full list of community resources](https://pulsar.apache.org/community/)
+
+## 📘 Books
+
+- [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
+- [Mastering Apache Pulsar: Cloud Native Event Streaming at Scale](https://www.goodreads.com/book/show/58230349-mastering-apache-pulsar) by [Jowanza Joseph](https://twitter.com/Jowanza). 240 pages. Released in 2022.
+
+## 🎓 Courses
+
+- [StreamNative Academy](https://www.academy.streamnative.io/tracks)
+  - [APC-100 Introduction to Apache Pulsar](https://www.academy.streamnative.io/courses/course-v1:streamnative+Beg-001+2022/about)
+  - [DEV-200 Practical Apache Pulsar Application Development](https://streamnative.io/training). *🧑‍🏫 Instructor-Led Training.*
+  - 🔜 Operator Fundamentals.
+
+- [Learn Apache Pulsar (Udemy)](https://www.udemy.com/course/learn-apache-pulsar/). *Beginner. Free. ⏱️ 1hr 43min.*
+
+- [Handling Streaming Data with Apache Pulsar 2](https://www.pluralsight.com/courses/handling-streaming-data-apache-pulsar). 
+*💰 Intermediate. ⏱️ 2h 7m. 🗓 Upd. Sep 9, 2020*
+
+## Certifications
+
+- [CERT-100 Apache Pulsar Developer Certification Level 1: Fundamentals](https://streamnative.io/training). 🧑‍🏫 Instructor-Led Training.
 
 ## Get Pulsar
 
