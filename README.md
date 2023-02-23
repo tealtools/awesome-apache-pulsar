@@ -1,4 +1,4 @@
-# awesome-pulsar
+# Awesome Apache Pulsar
 
 <img width="300px" src="https://user-images.githubusercontent.com/9302460/220744124-362cc066-8225-4782-b205-96941955f703.svg" />
 
