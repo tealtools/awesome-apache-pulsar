@@ -12,6 +12,13 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 [📚 Documentation](https://pulsar.apache.org/docs/)
 
+[📝 Release notes](https://pulsar.apache.org/release-notes/)
+
+## 📘 Books
+
+- [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
+- [Mastering Apache Pulsar: Cloud Native Event Streaming at Scale](https://www.goodreads.com/book/show/58230349-mastering-apache-pulsar) by [Jowanza Joseph](https://twitter.com/Jowanza). 240 pages. Released in 2022.
+
 ## 🗣 Community
 
 - [GitHub Discussions](https://github.com/apache/pulsar/discussions) is a right place to ask a question or suggest an idea.
@@ -23,10 +30,30 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [Full list of community resources](https://pulsar.apache.org/community/)
 
-## 📘 Books
+## Get Pulsar
 
-- [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
-- [Mastering Apache Pulsar: Cloud Native Event Streaming at Scale](https://www.goodreads.com/book/show/58230349-mastering-apache-pulsar) by [Jowanza Joseph](https://twitter.com/Jowanza). 240 pages. Released in 2022.
+### Managed solutions
+
+- [StreamNative Cloud](https://streamnative.io/product)
+- [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
+
+### Self-managed
+
+- [Download binaries](https://pulsar.apache.org/download/)
+- [🐳 Official Docker container](https://hub.docker.com/r/apachepulsar/pulsar-all)
+- [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
+- [Helm charts by StreamNative](https://github.com/streamnative/charts)
+- [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
+
+## 🛟 Support providers
+
+- [StreamNative Cloud](https://streamnative.io)
+- [DataStax](https://datastax.com)
+- [Dattell](https://dattell.com/)
+
+## 🏁 Benchmarks
+
+- [Apache Pulsar vs. Apache Kafka 2022 Benchmark](https://streamnative.io/blog/apache-pulsar-vs-apache-kafka-2022-benchmark) by StreamNative.
 
 ## Events
 
@@ -317,26 +344,47 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [🗓️ Apr 30, 2021](https://youtu.be/lREz9eC-pkE)
   - [🗓️ May 20, 2021](https://youtu.be/vGg9wiYjvUM)
 
-## Deployment
+### [DataStax Developers YouTube channel](https://www.youtube.com/@DataStaxDevs)
 
-- [🐳 Official Docker container](https://hub.docker.com/r/apachepulsar/pulsar-all)
-- [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
-- [Helm charts by StreamNative](https://github.com/streamnative/charts)
-- [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
-
-## Managed solutions
-
-- [StreamNative Cloud](https://streamnative.io/product)
-- [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
-
-## 🛟 Support providers
-
-- [StreamNative Cloud](https://streamnative.io)
-- [DataStax](https://datastax.com)
-- [Dattell](https://dattell.com/)
-
-## 🏁 Benchmarks
-
-- [Apache Pulsar vs. Apache Kafka 2022 Benchmark](https://streamnative.io/blog/apache-pulsar-vs-apache-kafka-2022-benchmark) by StreamNative.
-
-
+- [Bring Streaming to Cassandra with Apache Pulsar](https://www.youtube.com/live/nF502PmFi_w?feature=share)
+- [5 Minutes About Apache Pulsar](https://www.youtube.com/playlist?list=PL2g2h-wyI4SqeKH16czlcQ5x4Q_z-X7_m)
+  - [Real-time data pipeline with Astra and Decodable.co](https://youtu.be/NUDO3fPGc1w)
+  - [Extended Functions SDK for Java](https://youtu.be/5wHjsZwN8eg)
+  - [Getting Started with the Elastic Search Sink](https://youtu.be/CyZwpvw9F6I)
+  - [Getting Started with Pulsar SQL](https://youtu.be/Efx8mPyLvQU)
+  - [Astra Streaming Connectors](https://youtu.be/KrT8rBPWpOw)
+  - [Migrating from JMS to Pulsar with Starlight for JMS](https://youtu.be/fSP-2tY5vo8)
+  - [Creating Your First Pulsar I/O Sink](https://youtu.be/-jbi_r5VKHw)
+  - [Getting Started with the Cassandra Sink](https://youtu.be/z8EpuqBU2WE)
+  - [Creating a Pulsar I/O Source Connector](https://youtu.be/XiojH6pu8Iw)
+  - [Multi-Topic Processing with Java Functions](https://youtu.be/wzqh5DmlQ08)
+  - [Creating a Python Function](https://youtu.be/OCqxcNK0HEo)
+  - [Message Deduplication](https://youtu.be/UJggS7HrunY)
+  - [Working with Avro Schemas](https://youtu.be/JKP3pzfcmEw)
+  - [Simple Producer](https://youtu.be/GaZCLm2j5GA)
+  - [Simple Consumer](https://youtu.be/uVRerzNq_nQ)
+  - [10 Reasons for Pulsar](https://youtu.be/Jn5cwV9qReM)
+  - [Migrating from Kafka to Pulsar with Starlight for Kafka](https://youtu.be/Qy2ZlelLjXg)
+  - [What is a Partitioned Topic](https://youtu.be/ALAqUeTbUE4)
+  - [Managing Geo-replicated Clusters with Pulsar Admin Console](https://youtu.be/CQlnRCK0pRg)
+  - [Geo-replication Using Pulsar Standalone Clusters](https://youtu.be/6oQIOEIpeP4)
+  - [How BookKeeper keeps your data safe](https://youtu.be/2nmmyjDrNpg)
+  - [Pulsar Shell](https://youtu.be/NPP5ZJ1raek)
+  - [Json Web Token (JWT) Client Authentication](https://youtu.be/Nh8vmWS825k)
+  - [Exclusive Producer Access Mode](https://youtu.be/ITWRf5bqAgg)
+  - [Proving Pulsar Performance with OpenMessaging Benchmark](https://youtu.be/UTzOcdNCtzc)
+  - [In-Order Processing using Partitioned Topics and Failover Subscriptions](https://youtu.be/UX-h_1GOfuA)
+  - [Getting Started with a File Source](https://youtu.be/eu75cmp9Tjk)
+  - [Reactive Applications with Spring Boot](https://youtu.be/TeuFO8SrjvQ)
+  - [Getting Started with Astra Streaming](https://youtu.be/Wk__BrI-CCk)
+  - [OKTA Integration using OpenID Connect](https://youtu.be/UQBrecHOXxU)
+  - [Functions in the Kubernetes Runtime](https://youtu.be/6XH4BbFOg3Y)
+  - [Geo-replication](https://youtu.be/xBSE9NmJQeE)
+  - [Getting Started with DataStax Admin Console](https://youtu.be/1IwblLfPiPQ)
+  - [Your First Transaction](https://youtu.be/eNaKKui1-cE)
+  - [Getting Started with Pulsar using Kubernetes](https://youtu.be/hEBP_IVQqQM)
+  - [Consumer Receive Modes](https://youtu.be/2WA53t6bXfM)
+  - [Key Shared Subscriptions](https://youtu.be/_49wlA53L_8)
+  - [Creating a Java Function](https://youtu.be/cbL5gcoyWdE)
+  - [Shared Subscriptions](https://youtu.be/mmukXqGsauA)
+  - [Failover Subscriptions](https://youtu.be/ckB87OLs5eM)
