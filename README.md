@@ -28,17 +28,17 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [YouTube playlists by StreamNative](https://www.youtube.com/@streamnative7594/playlists)
 
-## Managed solutions
-
-- [StreamNative Cloud](https://streamnative.io/product)
-- [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
-
 ## Deployment
 
 - [🐳 Official Docker container](https://hub.docker.com/r/apachepulsar/pulsar-all)
 - [Official Helm Chart](https://github.com/apache/pulsar-helm-chart)
 - [Helm charts by StreamNative](https://github.com/streamnative/charts)
 - [Helm chart by DataStax](https://github.com/datastax/pulsar-helm-chart)
+
+## Managed solutions
+
+- [StreamNative Cloud](https://streamnative.io/product)
+- [Enterprise-ready Apache Pulsar by DataStax](https://www.datastax.com/streaming)
 
 ## 🛟 Support providers
 
