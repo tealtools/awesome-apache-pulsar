@@ -159,6 +159,13 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [#3](https://www.youtube.com/live/aP31A-ntHLA?feature=share) Secure a Pulsar cluster with TLS. 🗓️ *Mar 27, 2020*.
   - [#2](https://www.youtube.com/live/wGgEx1M17O0?feature=share) Proxy and Kubernetes Deployment. 🗓️ *Mar 20, 2020*.
   - [#1](https://www.youtube.com/live/1RQSot5tTuU?feature=share) Install a Pulsar cluster. 🗓️ *Mar 13, 2020*.
+  
+  **Pulsar Office hours**
+  
+  - [🗓️ Feb 17, 2021](https://www.youtube.com/live/Xh94uDE1pg4?feature=share)
+  - [🗓️ Mar 17, 2021](https://youtu.be/ISjz_fHLR6w)
+  - [🗓️ Apr 30, 2021](https://youtu.be/lREz9eC-pkE)
+  - [🗓️ May 20, 2021](https://youtu.be/vGg9wiYjvUM)
  
 ## Deployment
 
