@@ -42,7 +42,12 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Apache Flink x Pulsar Virtual Meetup: Streaming SQL at Uber and Facebook - Day One](https://youtu.be/9ojajM7Zt0M). 🗓️ *Mar 18, 2021*.
   - [TiDB + Pulsar, Event Streaming Architecture in Action](https://youtu.be/_IPWv1shCDc). 🗓️ *Mar 4, 2021*.
   - [Watch Your Streams: Implementing OpenTelemetry with Apache Pulsar](https://www.youtube.com/live/C5Vzu1M7fYE?feature=share). 🗓️ *Jan 26, 2021*.
-  - [StreamNative Webinar - Low-Latency Stream Processing with Jet](https://www.youtube.com/live/wIJGusBxB70?feature=share). 🗓️ *Oct 27, 2020*.
+  - [Low-Latency Stream Processing with Jet](https://www.youtube.com/live/wIJGusBxB70?feature=share). 🗓️ *Oct 27, 2020*.
+  - [Managing Real-Time Data Teams](https://youtu.be/Owl_ncQbVwk). 🗓️ *Aug 28, 2020*.
+  - [How to Operate Pulsar in Production](https://www.youtube.com/live/mncXc_T6JkU?feature=share). 🗓️ *Jul 28, 2020*.
+  - [Lessons From Managing A Pulsar Cluster by Nutanix](https://www.youtube.com/live/zAHxgG_U67Q?feature=share). 🗓️ *May 26, 2020*.
+  - [Common architectural patterns on Apache Pulsar](https://www.youtube.com/live/pmaCG1SHAW8?feature=share). 🗓️ *Apr 28, 2020*.
+  - [Introducing Kafka-on-Pulsar: bring native Kafka protocol support to Apache Pulsar](https://www.youtube.com/live/gL6hzRtij8M?feature=share).  🗓️ *Mar 31, 2020*.
 
 - [TGI Pulsar](https://www.youtube.com/watch?v=MTHE3_cUekc&list=PLqRma1oIkcWhWAhKgImEeRiQi5vMlqTc-) is a weekly live video streaming about Apache Pulsar and its ecosystem.
   - [#23](https://www.youtube.com/live/MTHE3_cUekc?feature=share) June Project Updates on Apache Pulsar. 🗓️ *Jun 9, 2021*.
