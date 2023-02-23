@@ -32,6 +32,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
+- [Pulsar Summit Asia 2021]()
+
 - [Pulsar Virtual Summit Europe 2021](https://pulsar-summit.org/event/europe-2021)
   - [Supporting the Entire Lifecycle of Streaming Data](https://youtu.be/lXwRp3o4X_U). Metteo Merli.
   - [A Foundation Backbone for Clever Cloud](https://youtu.be/-pQ6zRz6ij8). Quentin Adam.
@@ -70,9 +72,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Convergence of Messaging, Streaming, and Storage](https://youtu.be/1OLd8DiNFbs). Sijie Guo.
   - [Introduce to Apache Pulsar 2.7.0: New Features and Updates](https://youtu.be/MlavI8XOyVc). Jia Zhai & Penghui Li.
   - [Pulsar-as-a-Service: Introducing StreamNative Cloud](https://youtu.be/8X7zYY6HLlo). Yang Yang.
-  - [Getting Started with Apache Pulsar: a Contributor's Journey](https://youtu.be/qvYGy2Fn4EI). Hang Chen & Penghui Li. *🇨🇳 Mandarin*.
   - [Function Mesh - Complex Streaming Jobs in a Simple Way](https://youtu.be/Rq8Zfxd8xfU). Neng Lv, Sijie Guo.
-  - [Running Apache Pulsar on Tencent Cloud: New Challenges, Discussion, Practice](https://youtu.be/FZpbY5LIvZM). Lin Lin. *🇨🇳 Mandarin*.
   - [Apache Pulsar at Yahoo! Japan - adoption, operational experiences and future](https://youtu.be/M11MkYC_K3k). Nozomi Kurihara.
   - [Running a secure Apache Pulsar Cluster](https://youtu.be/Nl1wnxqU3Oo). Shivji Kumar Jha.
   - [CloudNative BookKeeper: What's new in BP-41: Bookie Network Address Change Tracking](https://youtu.be/H_XTjqYP2jw). Enrico Olivelli.
@@ -86,6 +86,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Apache Pulsar, To Kafka and Beyond!](https://youtu.be/xqu0q7A1E4U). William McLane.
   - [Structured Data Stream with Pulsar](https://youtu.be/Bx4csRi1b8Y). Shivji Kumar Jha.
   - [Pulsar for Kafka People](https://youtu.be/gYBvLNkJvio). Jesse Anderson.
+  - [Running Apache Pulsar on Tencent Cloud: New Challenges, Discussion, Practice](https://youtu.be/FZpbY5LIvZM). Lin Lin. *🇨🇳 Mandarin*.
+  - [Getting Started with Apache Pulsar: a Contributor's Journey](https://youtu.be/qvYGy2Fn4EI). Hang Chen & Penghui Li. *🇨🇳 Mandarin*.
   - [Apache Pulsar Helps Dada Group Build Real-Time Retail Services in China](https://youtu.be/F402mUTmOIc). Qinghua Zhang, Mingming Wan. *🇨🇳 Mandarin*.
   - [Apache Pulsar in Huawei Cloud IoT Platform: Why and How to Configure Apache Pulsar](https://youtu.be/RC2zIiShjKE). *🇨🇳 Mandarin*.
   - [Tuya Cloud Builds Word-leading AI+IoT Platform with Apache Pulsar](https://youtu.be/jmSDmdSGlnI). Tianci Gao. *🇨🇳 Mandarin*.
