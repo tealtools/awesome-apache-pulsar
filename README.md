@@ -114,6 +114,17 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [StreamNative YouTube channel](https://www.youtube.com/@streamnative7594/)
 
+- [StreamNative Academy](https://www.youtube.com/playlist?list=PLqRma1oIkcWjkpm1-0ox-BFJdVBsgZwPU)
+  - [Welcome to StreamNative Academy](https://youtu.be/272GjyCTaXw)
+  - [Introduction to Apache Pulsar](https://youtu.be/DTpVz7eZ3DI)
+  - [How to Get Started with an Apache Pulsar Cluster](https://youtu.be/w2dzxQfAiZM)
+  - [How to Get Started with Apache Pulsar Producers](https://youtu.be/N5NTDNRmH5E)
+  - [How to Get Started with Apache Pulsar Consumers](https://youtu.be/bNf6tOG7pYU)
+  - [How to Deploy Apache Pulsar Using Helm Charts](https://youtu.be/9CAK4bhK9zI)
+  - [How to Build and Deploy a Source Connector with Apache Pulsar](https://youtu.be/w9xQyyoFds4)
+  - [How to Integrate Apache Pulsar with BiqQuery](https://youtu.be/0Tx9B_iHKrI)
+  - [Intro to Apache Pulsar 101 (old version)](https://www.youtube.com/live/Hp9m-O9f9yo?feature=share)
+
 - [Apache Pulsar Webinars](https://www.youtube.com/playlist?list=PLqRma1oIkcWhfmUuJrMM5YIG8hjju62Ev)
   - [How to Build an Event Sourcing App with Apache Pulsar](https://youtu.be/wLjEGSqGWJg). 🗓️ *Mar 29, 2022*.
   - [Pulsar and Nifi for Cloud Data Lakes](https://youtu.be/2BeAQNI8Pu0). 🗓️ *Mar 11, 2022*.
