@@ -32,6 +32,27 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
+- [Pulsar Summit San Francisco 2022](https://pulsar-summit.org/event/san-francisco-2022)
+  - [Sizzle Reel](https://youtu.be/VoB5witRLmM)
+  - [Opening Remarks](https://youtu.be/_2Q1ED0-eoE). Carolyn King.
+  - [Event-Driven Applications Done Right](https://youtu.be/naykSkyUlRM). Sijie Guo, Metteo Merli.
+  - [Beam + Pulsar Powerful Stream Processing at Scale](https://youtu.be/L_Pm2yKgA6g). Byron Ellis.
+  - [Data Democracy: Journey to User-Facing Analytics](https://youtu.be/RWasN8h3528). Xiang Fu.
+  - [Pulsar @ Scale. 200M RPM and Thousand of Instances](https://youtu.be/D3cM9zffHHI). Ignacio Alvarez.
+  - [Pulsar's Journey in Yahoo!: On prem, Cloud and Hybrid](https://youtu.be/n-ZoUauwwac). Ludwig Pummer, Rajan Dhabalia.
+  - [Understanding Broker Rebalancing](https://youtu.be/TV6GV9soXLQ). Heesung Sohn.
+  - [Message Redelivery: An Unexpected Journey](https://youtu.be/kUlEBnF7XUg). David Kjerrumgaard.
+  - [Validating Apache Pulsar’s Behavior Under Failure Conditions](https://youtu.be/98wT5ePSKj0). Lari Hotari.
+  - [Towards a ZooKeeper-less Pulsar, etcd, etcd, etcd.](https://youtu.be/uWhUE-YBbYg). Matteo Merli.
+  - [Blue-Green Deploys with Pulsar & Envoy in an Event-Driven Microservice Ecosystem](https://youtu.be/7CPEwUtNBOU). Kai Levy, Zach Walsh.
+  - [Building Reliable Lakehouses with Apache Pulsar and Delta Lake](https://youtu.be/Y4ktNhMOeOA). Nick Karpov.
+  - [Unlocking the Power of Lakehouse Architectures with Apache Pulsar and Apache Hudi](https://youtu.be/GzkcTCOtJVA). Alexey Kudinkin, Addison Higham.
+  - [Cross the Streams! Creating Streaming Data Pipelines with Apache Flink + Pulsar](https://youtu.be/68wXwDrXSnE). Caito Scherr.
+  - [Is Using KoP (Kafka-on-Pulsar) a Good Idea?](https://youtu.be/Rk_5XBciYuk). Ricardo Ferreira.
+  - [Simplify Pulsar Functions Development with SQL](https://youtu.be/DnXu0Q0mvTM). Rui Fu.
+  - [Distributed Database Design Decisions to Support High Performance Event Streaming](https://youtu.be/--yZ5MX6DDQ). Peter Corless.
+  - [Building an Asynchronous Application Framework with Python and Pulsar](https://youtu.be/eJNZkiFBc4Y). Zac Bentley.
+
 - [Pulsar Summit Asia 2021](https://pulsar-summit.org/event/asia-2021)
   - [Apache Pulsar. What we Learned from Building a Modern Messaging and Streaming System for Cloud](https://youtu.be/B2GAsLRYPCI). Sijie Guo.
   - [Supporting the entire lifecycle of Streaming Data](https://youtu.be/CAk33ATlBXU). Metteo Merli.
