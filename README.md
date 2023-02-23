@@ -1,12 +1,12 @@
-**Pulsar Virtual Summit Europe 2023 will take place on May 23rd, 2023.**  CFP is open now! 
-
-[Submit your session](https://sessionize.com/pulsar-virtual-summit-europe-2023)
-
 # Awesome Apache Pulsar
 
 <img width="300px" src="https://user-images.githubusercontent.com/9302460/220744124-362cc066-8225-4782-b205-96941955f703.svg" />
 
 Apache® Pulsar™ is an open-source, distributed messaging and streaming platform built for the cloud.
+
+<a href="https://sessionize.com/pulsar-virtual-summit-europe-2023">
+<img src="https://raw.githubusercontent.com/tealtools/awesome-apache-pulsar/main/announcement.svg" />
+</a>
 
 [🏠 Official website](https://pulsar.apache.org/)
 
