@@ -28,6 +28,51 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
+- [Pulsar Summit Asia 2020](https://www.youtube.com/playlist?list=PLqRma1oIkcWjHlRb-dzjwYdETkVlyCJOq)
+  - [The Rise of Apache Pulsar Community](https://youtu.be/4uB8i4zZXSw). Jennifer Huang.
+  - [Convergence of Messaging, Streaming, and Storage](https://youtu.be/1OLd8DiNFbs). Sijie Guo.
+  - [Introduce to Apache Pulsar 2.7.0: New Features and Updates](https://youtu.be/MlavI8XOyVc). Jia Zhai & Penghui Li.
+  - [Pulsar-as-a-Service: Introducing StreamNative Cloud](https://youtu.be/8X7zYY6HLlo). Yang Yang.
+  - [Getting Started with Apache Pulsar: a Contributor's Journey](https://youtu.be/qvYGy2Fn4EI). Hang Chen & Penghui Li. *🇨🇳 Mandarin*.
+  - [Function Mesh - Complex Streaming Jobs in a Simple Way](https://youtu.be/Rq8Zfxd8xfU). Neng Lv, Sijie Guo.
+  - [Running Apache Pulsar on Tencent Cloud: New Challenges, Discussion, Practice](https://youtu.be/FZpbY5LIvZM). Lin Lin. *🇨🇳 Mandarin*.
+  - [Apache Pulsar at Yahoo! Japan - adoption, operational experiences and future](https://youtu.be/M11MkYC_K3k). Nozomi Kurihara.
+  - [Running a secure Apache Pulsar Cluster](https://youtu.be/Nl1wnxqU3Oo). Shivji Kumar Jha.
+  - [CloudNative BookKeeper: What's new in BP-41: Bookie Network Address Change Tracking](https://youtu.be/H_XTjqYP2jw). Enrico Olivelli.
+  - [A Tale about Streaming Analytics using Pulsar and Elastic](https://youtu.be/7IstxhL8p9E). Ricardo Ferreira.
+  - [Databases in the Microservices World](https://youtu.be/nnmJYxVB49I). Rob Richardson.
+  - [Continuous Intelligence from Pulsar Event Streams](https://youtu.be/WcewvxTsv4o). Simon Crosby.
+  - [What's New in BKVM 3.0 - BookKeeper Visual Manager](https://youtu.be/kX460WATXKM). Matteo Minardi, Enrico Olivelli.
+  - [Migrate to Serverless with Pulsar Functions](https://youtu.be/pHYDksU6ALg). Axel Sirota.
+  - [Connecting millions of users at Chatroulette](https://youtu.be/9NCFLMESAuY). Tamer Abdulazim, Gabriel Volpe.
+  - [How Splunk is using Pulsar IO](https://youtu.be/f4E7MOO9fdk). Jerry Peng.
+  - [Apache Pulsar, To Kafka and Beyond!](https://youtu.be/xqu0q7A1E4U). William McLane.
+  - [Structured Data Stream with Pulsar](https://youtu.be/Bx4csRi1b8Y). Shivji Kumar Jha.
+  - [Pulsar for Kafka People](https://youtu.be/gYBvLNkJvio). Jesse Anderson.
+  - [Apache Pulsar Helps Dada Group Build Real-Time Retail Services in China](https://youtu.be/F402mUTmOIc). Qinghua Zhang, Mingming Wan. *🇨🇳 Mandarin*.
+  - [Apache Pulsar in Huawei Cloud IoT Platform: Why and How to Configure Apache Pulsar](https://youtu.be/RC2zIiShjKE). *🇨🇳 Mandarin*.
+  - [Tuya Cloud Builds Word-leading AI+IoT Platform with Apache Pulsar](https://youtu.be/jmSDmdSGlnI). Tianci Gao. *🇨🇳 Mandarin*.
+  - [Practices of the New Generation of Securities Trading Counters Powered with Apache Pulsar](https://youtu.be/AbRsloW_90s). *🇨🇳 Mandarin*.
+  - [Processing Billions of Messages Daily with Apache Pulsar in Kingsoft Cloud Log Service](https://youtu.be/eXHE19WKvM8). *🇨🇳 Mandarin*.
+  - [Powering Newland Billing System with Apache Pulsar](https://youtu.be/flTQ7H6ygE0). Xiaohua Zhou. *🇨🇳 Mandarin*.
+  - [A Daredevil' Story: Apache Pulsar in Zhaopin.com](https://youtu.be/yE7mN7-6rDU). Shunli Gao. *🇨🇳 Mandarin*.
+  - [Federated Learning Sparkles with Apache Pulsar at Tencent Angel PowerFL](https://youtu.be/GXrFolkslL0). Chao Zhang. *🇨🇳 Mandarin*.
+  - [China Mobile Cloud Powered by Apache Pulsar: the Way to Cloud](https://youtu.be/Dp_5TLDHa50). Fangbin Sun. *🇨🇳 Mandarin*.
+  - [Powering Zhaopin's Real-time Search Recommendations with Apache Pulsar SQL](https://youtu.be/wxh6eFVITgk). Shiming Li. *🇨🇳 Mandarin*.
+  - [When the Energy Internet meets Apache Pulsar](https://youtu.be/hfIoASSJkJA). Rui Fu. *🇨🇳 Mandarin*.
+  - [How BIGO builds Real-Time Message System with Apache Pulsar and Flink](https://youtu.be/kYQlnPVkdTk). Hang Chen. *🇨🇳 Mandarin*.
+  - [Transactional Event Streaming with Apache Pulsar ](https://youtu.be/Y7RQaEGoFDI). Bo Cong. *🇨🇳 Mandarin*.
+  - [Pulsar Manager - Your Powerful Tool to Manage Apache Pulsar](https://youtu.be/KIbMzyEx9lE). Guangning E. *🇨🇳 Mandarin*.
+  - [Life with Apache Pulsar in Su Ning E-Commerce](https://youtu.be/_6ExVHgUg2g). Xinglin Chen. *🇨🇳 Mandarin*.
+  - [Real-time IoT Data Management using Apache IoTDB and Apache Pulsar](https://youtu.be/uyO2RkgOgkA). Xiangdong Huang. *🇨🇳 Mandarin*.
+  - [Benchmarking Pulsar vs. Kafka on AWS: Process & Results](https://youtu.be/OnIMQvgGhfk). Penghui Li. *🇨🇳 Mandarin*.
+  - [KoP: the bridge from Kafka to Pulsar](https://youtu.be/y_prAJ3myB8). Yunze Xu. *🇨🇳 Mandarin*.
+  - [When TiDB meets Apache Pulsar - a Comprehensive Solution for Real-time Big Data](https://youtu.be/y_prAJ3myB8). Yilin Zhao. *🇨🇳 Mandarin*.
+  - [Apache Pulsar + Flink: the Path to Unified Batch and Streaming](https://youtu.be/wLGwSPQmLSE). Jia Zhai. *🇨🇳 Mandarin*.
+  - [Pulsar Functions: a Lightweight Computing Framework for Apache Pulsar Based on Golang](https://youtu.be/nYdt_8zz_d0). *🇨🇳 Mandarin*.
+  - [Deploying Apache Pulsar with dLocal in Kubernetes](https://youtu.be/_Yw7c6rqSFk). Alex Zheng. *🇨🇳 Mandarin*.
+  - [Integration of Apache APISIX and Apache Pulsar](https://youtu.be/vWF4hxxevQo). Ming Wen. *🇨🇳 Mandarin*.
+
 - [Pulsar Summit 2020](https://pulsar-summit.org/event/virtual-conference-2020)
   - [Opening Keynote](https://youtu.be/wBpNcESySNc). Carolyn, Matteo, Sijie.
   - [Why Splunk Chose Pulsar](https://youtu.be/_q8s3_0-BRQ). Karthik Ramasamy.
