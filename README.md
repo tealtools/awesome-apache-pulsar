@@ -24,6 +24,43 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Apache Pulsar in Action](https://www.goodreads.com/book/show/59560698-apache-pulsar-in-action) by [David Kjerrumgaard](https://twitter.com/DavidKjerrumga1). 400 pages. Released in 2021.
 - [Mastering Apache Pulsar: Cloud Native Event Streaming at Scale](https://www.goodreads.com/book/show/58230349-mastering-apache-pulsar) by [Jowanza Joseph](https://twitter.com/Jowanza). 400 pages. Released in 2022.
 
+## Events
+
+### [Pulsar Summit](https://pulsar-summit.org/)
+
+- [Pulsar Summit 2020](https://pulsar-summit.org/event/virtual-conference-2020)
+  - [Opening Keynote](https://youtu.be/wBpNcESySNc). Carolyn, Matteo, Sijie.
+  - [Why Splunk Chose Pulsar](https://youtu.be/_q8s3_0-BRQ). Karthik Ramasamy.
+  - [Scaling Customer Engagement with Apache Pulsar](https://youtu.be/NrDvSNewNT0). Greg Methvin.
+  - [Getting Pulsar Spinning: How we decided on and deployed Apache Pulsar in under a year](https://youtu.be/ViX1wJTmRmk). Addison Higham.
+  - [How Splunk Mission Control leverages various Pulsar subscription types](https://youtu.be/FOHUZZ1yCUo). Pranav Dharma.
+  - [Securing your Pulsar Cluster with Vault](https://youtu.be/PIT8PilhHV4). Chris Kellogg.
+  - [Kafka on Pulsar: Bringing native Kafka protocol support to Pulsar](https://youtu.be/QYXKFPvayjs). Pierre Zemb, Sijie Guo.
+  - [Event propagation across microservices using Pulsar and CDC](https://youtu.be/uNopXedhM9Q). Maheedhar Gunturu, Eyal Gutkind.
+  - [The first step to Multi AZ architecture for Apache BookKeeper](https://youtu.be/5B_2SNAUkNk). Anup Ghatage, Ankit Jain.
+  - [Introducing HerdDB : a distributed JVM embeddable database built upon Apache BookKeeper](https://youtu.be/K7xQZ9V9Ml0). Enrico.
+  - [Pulsar Storage on BookKeeper: Seamless Evolution](https://youtu.be/jCio-rwKHjk). Joe Francis, Rajan Dhabalia.
+  - [Pulsar Functions Deep Dive](https://youtu.be/EHoh_0Inxk8). Sanjeev Kulkarni.
+  - [Streaming, Fast and Slow](https://youtu.be/An7QAdy9MH4). Caito Scherr.
+  - [Ten reasons to choose Apache Pulsar over Apache Kafka for Event Sourcing (CQRS)](https://youtu.be/RS0vEgqAnI4). Robert van Mölken.
+  - [Finding your pulse for a global enterprise communications nervous system](https://youtu.be/nPmrnyARa00). William McLane.
+  - [Unified Data Processing with Apache Flink and Apache Pulsar](https://youtu.be/Ri64eoces4M). Seth Wiesman.
+  - [Building a Messaging Solutions for OVHcloud with Apache Pulsar](https://youtu.be/ra9o9_vPeUE). Pierre Zemb.
+  - [Using Apache Pulsar to Provide Real-Time IoT Analytics on the Edge](https://youtu.be/7wGIhLKnILs). David Kjerrumgaard.
+  - [Easily Build a Smart Pulsar Stream Processor](https://youtu.be/qeIX_SSxJyg). Simon Crosby.
+  - [Architecting Production IoT Analytics](https://youtu.be/kMh45MixjJQ). Paige Roberts.
+  - [Large scale log pipeline using Apache Pulsar](https://youtu.be/srJwOK0oi6c). Nozomi Kurihara.
+  - [Pulsar unikernel FaaS, the new Pulsar functions runners?](https://youtu.be/lb3WnNGnbHE). Alexandre Duval, Geoffroy Couprie.
+  - [Interactive querying of streams using Apache Pulsar](https://youtu.be/oYO0jk_yXZc). Jerry Peng.
+  - [Stream or segment: What is the best way to access your events in Pulsar](https://youtu.be/EyziIuuTHIo). Neng Lu.
+  - [Pulsar Architectural Patterns for CI/CD Automation and Self-Service](https://youtu.be/NBBbeSEw5f4). Devin Bost.
+  - [How Apache Pulsar Helps Tencent Process Tens of Billions of Transactions Efficiently](https://youtu.be/GyytM-MFpxQ). Ningguo Chen.
+  - [Five years of operating a large scale globally replicated Pulsar installation](https://youtu.be/FXQvsHz_S1A). Francis, Ludwig Pummer.
+  - [Pulsar for Kafka People](https://youtu.be/v3gWRe06NH4). Jesse Anderson.
+  - [Testing Event-Driven Applications over Pulsar](https://youtu.be/7UqyRY0sPQo). Venky Ganti.
+  - [Feature Stores: Building Machine Learning Infrastructure on Apache Pulsar](https://youtu.be/eLJk5sOME0o). Simba Khadder.
+  - [Unify Storage Backend for Batch and Streaming Computation with Apache Pulsar](https://youtu.be/NRq3Ifxw_eo). Vincent Xie.
+
 ## 📺 Videos
 
 ### [StreamNative YouTube channel](https://www.youtube.com/@streamnative7594/)
