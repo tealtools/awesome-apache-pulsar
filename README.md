@@ -32,6 +32,25 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
+- [Pulsar Summit North America 2021](https://pulsar-summit.org/event/north-america-2021)
+  - [Keynote - Why Unified Messaging and Streaming Is the Future](https://youtu.be/-Bm1h508oIQ). Matteo Merli, Sijie Guo.
+  - [Exactly Once Made Easy Transactional Messaging in Apache Pulsar](https://youtu.be/tnWq8opMI6s). Sijie Guo, Addison Higham.
+  - [How Pulsar Stores Your Data](https://youtu.be/xIibbB5Y0MM). Shivji Kumar Jha.
+  - [Building the Next-Generation Platform on Pulsar at Intuit](https://youtu.be/CmyHUN5MRUU). Madhavan Narayanan, Sajith Sebasian, Amit Kaushal, Gokul Sarangapani.
+  - [Replicated Subscriptions: Taking Geo-Replication to the Next Level](https://youtu.be/YtX_rSH_UZo). Matteo Merli.
+  - [Scaling Apache Pulsar to 10 Petabytes/Day](https://youtu.be/1uG3mdfh0nk). Karthik Ramasamy.
+  - [Take Kafka on Pulsar to Production at Internet Scale: Improvement Made for Pulsar 2.8.0](https://youtu.be/NR49Zz7JD-g). Yunze Xu.
+  - [Manage Pulsar Cluster Lifecycles with Kubernetes Operators](https://youtu.be/363o60Lf4Ig). Yang Yang.
+  - [Why Micro Focus Chose Pulsar for Data Ingestion](https://youtu.be/GKh7a8-ZjD4). Srikanth Natarajan.
+  - [How Narvar Uses Pulsar to Power the Post-Purchase Experience](https://youtu.be/vS4yk4bbLN0). Ankush Goyal.
+  - [Pushing Pulsar Performance to the Limits](https://youtu.be/Cwcbffybfac). Jack Vanlightly, Ivan Kelly.
+  - [Down to the Rabbit Hole with Pulsar I/O](https://youtu.be/60x5eMeBEyI). Ricardo Ferreira.
+  - [Apache BookKeeper State Store: A Durable Key-Value Store](https://youtu.be/6CrEHEzLoO4). Prashant Kumar.
+  - [Exclusive Producer: Using Pulsar to Build Distributed Applications](https://youtu.be/-fwUYAeqS7o). Matteo Merli.
+  - [How Big Is Too Big? Message Size in Pulsar](https://youtu.be/Mispc4z2OHg). Anton Rodriguez.
+  - [Reduce Redundant Producers from Partitioned Producer](https://youtu.be/sMRmPwkAKrE). Yuri Muzushima.
+  - [Advanced Stream Processing with Flink and Pulsar](https://youtu.be/2MpiE238Pzw). Till Rogrmann, Addison Higham.
+
 - [Pulsar Summit Asia 2020](https://www.youtube.com/playlist?list=PLqRma1oIkcWjHlRb-dzjwYdETkVlyCJOq)
   - [The Rise of Apache Pulsar Community](https://youtu.be/4uB8i4zZXSw). Jennifer Huang.
   - [Convergence of Messaging, Streaming, and Storage](https://youtu.be/1OLd8DiNFbs). Sijie Guo.
