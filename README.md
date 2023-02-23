@@ -26,7 +26,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ## 📺 Videos
 
-### [StreamNative YouTube channel](https://www.youtube.com/@streamnative7594/playlists)
+### [StreamNative YouTube channel](https://www.youtube.com/@streamnative7594/)
 
 - [Apache Pulsar Webinars](https://www.youtube.com/playlist?list=PLqRma1oIkcWhfmUuJrMM5YIG8hjju62Ev)
   - [How to Build an Event Sourcing App with Apache Pulsar](https://youtu.be/wLjEGSqGWJg). 🗓️ *Mar 29, 2022*.
