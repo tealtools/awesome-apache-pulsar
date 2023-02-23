@@ -32,7 +32,31 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
-- [Pulsar Summit Asia 2021]()
+- [Pulsar Summit Asia 2021](https://pulsar-summit.org/event/asia-2021)
+  - [Apache Pulsar. What we Learned from Building a Modern Messaging and Streaming System for Cloud](https://youtu.be/B2GAsLRYPCI). Sijie Guo.
+  - [Supporting the entire lifecycle of Streaming Data](https://youtu.be/CAk33ATlBXU). Metteo Merli.
+  - [Designing Pulsar Clients to Run in Isolation](https://youtu.be/xjKNcKLuDZI). Sourabh Agrawal, Shivji Kumar Jha.
+  - [Apache Pulsar with MQTT for Edge Computing](https://youtu.be/vV1E6KDF5-0). Tim Spann.
+  - [Opening Remarks](https://youtu.be/J4sC0vqwTlY). *🇨🇳 Mandarin*.
+  - [The Future of Unified Messaging and Streaming with Apache Pulsar](https://youtu.be/YSg10Mxk0Q8). *🇨🇳 Mandarin*.
+  - [What's New in Apache Pulsar 2.9](https://youtu.be/pTrKMncGfSM). *🇨🇳 Mandarin*.
+  - [Apache Pulsar with K8S, One Messaging and Streaming Solution for Industry](https://youtu.be/rgPC2K6SzDA). *🇨🇳 Mandarin*.
+  - [Enabling Hybrid Cloud Strategies with Apache Pulsar](https://youtu.be/4XCxpM2wvks). *🇨🇳 Mandarin*.
+  - [Log System As Backbone – How We Built the World’s Most Advanced Vector Database on Pulsar](https://youtu.be/jkssKfLaHHc). *🇨🇳 Mandarin*.
+  - [Building Smart Parking SaaS System with Apache Pulsar to Make Business Data-intelligence](https://youtu.be/JX-xSsgXza8). *🇨🇳 Mandarin*.
+  - [The Evolution History of RoP (RocketMQ-on-Pulsar)](https://youtu.be/fOgA62QEiYQ). *🇨🇳 Mandarin*.
+  - [Function Mesh for Apache Pulsar, the Way for Simple Streaming Solutions](https://youtu.be/fAn1HZdb50k). Rui Fu. *🇨🇳 Mandarin*.
+  - [How Tencent Applies Apache Pulsar to Apache InLong](https://youtu.be/fSVKXDxLma8). *🇨🇳 Mandarin*.
+  - [KoP (Kafka on Pulsar): Improvements Made in KoP 2.9.0](https://youtu.be/awrhQ_WrxN0). *🇨🇳 Mandarin*.
+  - [MoP (MQTT on Pulsar) - a Powerful Tool for Apache Pulsar in IoT](https://youtu.be/CIoXRpPO1GI). *🇨🇳 Mandarin*.
+  - [PowerFL meets Pulsar: A Novel Communication Framework for Privacy-Preserving Computation](https://youtu.be/gohPPlpngCE). Huaming Rao. *🇨🇳 Mandarin*.
+  - [Pulsar in the Lakehouse: Overview of Apache Pulsar and Delta Lake Connector](https://youtu.be/PHgayViGqws). *🇨🇳 Mandarin*.
+  - [Design, Development, and Use of the New Flink-based Pulsar Connector](https://youtu.be/P9Q1TZk1YfU). *🇨🇳 Mandarin*.
+  - [RabbitMQ on Pulsar's Practice in Tencent Cloud](https://youtu.be/AVT2VbaT-h4). *🇨🇳 Mandarin*.
+  - [The Evolution of Trillion-level Real-time Messaging System in BIGO](https://youtu.be/RhjYrXDgQ8Q). Zhanpeng Wu. *🇨🇳 Mandarin*.
+  - [The Practice of Apache Pulsar for Logging in China Mobile](https://youtu.be/ZrxPvWa3muw). *🇨🇳 Mandarin*.
+  - [A New Transport Plugin for Apache SkyWalking Using Apache Pulsar](https://youtu.be/hS8EXrlICdw). *🇨🇳 Mandarin*.
+
 
 - [Pulsar Virtual Summit Europe 2021](https://pulsar-summit.org/event/europe-2021)
   - [Supporting the Entire Lifecycle of Streaming Data](https://youtu.be/lXwRp3o4X_U). Metteo Merli.
