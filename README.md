@@ -32,6 +32,20 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
+- [Pulsar Virtual Summit Europe 2021](https://pulsar-summit.org/event/europe-2021)
+  - [Supporting the Entire Lifecycle of Streaming Data](https://youtu.be/lXwRp3o4X_U). Metteo Merli.
+  - [A Foundation Backbone for Clever Cloud](https://youtu.be/-pQ6zRz6ij8). Quentin Adam.
+  - [Pulsar in the Lakehouse: Apache Pulsar with Apache Spark and Delta Lake](https://youtu.be/SJn53RH7-ws). Ryan Zhu, Addison Higham.
+  - [Pulsar Watermarking](https://youtu.be/YcR8AyebgNs). Eron Wright.
+  - [Writing Custom Sink Connectors for Pulsar I/O](https://youtu.be/KraWwiuSDkM). Ricardo Ferreia.
+  - [Using the JMS 2.0 API with Apache Pulsar](https://youtu.be/W4nWJ9ZpGjM). Enrico Olivelli.
+  - [No Surprises Geo Replication](https://youtu.be/iezoBH7qYYg). Gaurav Ashok.
+  - [Using the FLiPN Stack for Edge AI (Flink, NiFi, Pulsar)](https://youtu.be/pfhoF3yTdHU). Timothy Spann.
+  - [Interactive Analytics on Pulsar with Pulsar SQL](https://youtu.be/aaAGqQ-xXmc). Alex Sirota.
+  - [Application of Apache Pulsar in Tencent Billing and Tencent Advertising](https://youtu.be/hB3mDAbf_mg). Mingyu Bao.
+  - [Deep Dive into the Pulsar Binary Protocol](https://youtu.be/ONyld7Da-rw). Christophe Bornet.
+  - [Opening Remarks](https://youtu.be/df2Na6eulks). Carolyn King.
+
 - [Pulsar Summit North America 2021](https://pulsar-summit.org/event/north-america-2021)
   - [Keynote - Why Unified Messaging and Streaming Is the Future](https://youtu.be/-Bm1h508oIQ). Matteo Merli, Sijie Guo.
   - [Exactly Once Made Easy Transactional Messaging in Apache Pulsar](https://youtu.be/tnWq8opMI6s). Sijie Guo, Addison Higham.
@@ -193,7 +207,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
    **Monthly updates**
   
   - [Apache Pulsar Updates & Pulsar Schema Registry](https://youtu.be/W6Nq47LcJlg). Matteo Merli. 🗓️ *Sep 10, 2021*.
-  - 
+  
   **Pulsar Office hours**
   
   - [🗓️ Feb 17, 2021](https://www.youtube.com/live/Xh94uDE1pg4?feature=share)
