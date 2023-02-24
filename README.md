@@ -34,17 +34,14 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [StreamNative Academy](https://www.academy.streamnative.io/tracks)
   - [APC-100 Introduction to Apache Pulsar](https://www.academy.streamnative.io/courses/course-v1:streamnative+Beg-001+2022/about)
-  - [DEV-200 Practical Apache Pulsar Application Development](https://streamnative.io/training). *🧑‍🏫 Instructor-Led Training.*
+  - [DEV-200 Practical Apache Pulsar Application Development](https://streamnative.io/training).
   - 🔜 Operator Fundamentals.
-
-- [Learn Apache Pulsar (Udemy)](https://www.udemy.com/course/learn-apache-pulsar/). *Beginner. Free. ⏱️ 1hr 43min.*
-
+- [Learn Apache Pulsar](https://www.udemy.com/course/learn-apache-pulsar/).
 - [Handling Streaming Data with Apache Pulsar 2](https://www.pluralsight.com/courses/handling-streaming-data-apache-pulsar). 
-*💰 Intermediate. ⏱️ 2h 7m. 🗓 Upd. Sep 9, 2020*
 
-## Certifications
+## 🪪 Certifications
 
-- [CERT-100 Apache Pulsar Developer Certification Level 1: Fundamentals](https://streamnative.io/training). 🧑‍🏫 Instructor-Led Training.
+- [CERT-100 Apache Pulsar Developer Certification Level 1: Fundamentals](https://streamnative.io/training).
 
 ## Get Pulsar
 
