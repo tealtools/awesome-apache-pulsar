@@ -75,14 +75,19 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Streaming War and How Apache Pulsar is Acing the Battle](https://streamnative.io/blog/streaming-war-and-how-apache-pulsar-is-acing-the-battle) by Shivji Kumar Jha and Sachidananda Maharana.
 - [StreamNative: Enabling Real-time Messaging and Streaming for the Cloud](https://streamnative.io/blog/enabling-real-time-messaging-and-streaming-for-the-cloud) by Sijie Guo and Matteo Merli.
 - [David Kjerrumgaard, Pulsar In Action Author, Talks All Things Pulsar](https://streamnative.io/blog/david-kjerrumgaard-pulsar-inauthor-talks-all-things-pulsar) by Carolyn King.
+- [A More Accurate Perspective on Pulsar’s Performance Compared to Kafka](https://streamnative.io/blog/perspective-on-pulsars-performance-compared-to-kafka) by Penghui Li and Sijie Guo.
+- [Benchmarking Pulsar and Kafka - The Full Benchmark Report - 2020](https://streamnative.io/blog/benchmarking-pulsar-and-kafka-report-2020) by Penghui Li and Sijie Guo.
+
 
 #### Case studies
 
-- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/handling-100k-consumers-with-one-pulsar-topic) by Hongjie Zhai from NTT.
-- [WeChat: Using Apache Pulsar to Support the High Throughput Real-time Recommendation Service](https://streamnative.io/blog/wechat-using-apache-pulsar-support-high-throughput-real-time-recommendation-service) by Shen Liu from WeChat.
-- [How Proxima Beta Implemented CQRS and Event Sourcing on Top of Apache Pulsar and ScyllaDB](https://streamnative.io/blog/how-proxima-beta-implemented-cqrs-event-sourcing-ofapache-pulsar-scylladb) by Lei Shi from Proxima Beta, part of Tencent Interactive Entertainment Group Global (IEG Global).
-- [600K Topics Per Cluster: Stability Optimization of Apache Pulsar at Tencent Cloud](https://streamnative.io/blog/600k-topics-per-cluster-stability-optimization-apache-pulsar-tencent-cloud) by Xiaolong Ran from Tencent Cloud.
-- [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/client-optimization-how-tencent-maintains-apache-pulsar-clusters-100-billion-messages-daily) by Mingyu Bao and Dawei Zhang from Tencent TEG Data Platform Department.
+- [Handling 100K Consumers with One Pulsar Topic](https://streamnative.io/blog/handling-100k-consumers-with-one-pulsar-topic) by Hongjie Zhai from **NTT**.
+- [WeChat: Using Apache Pulsar to Support the High Throughput Real-time Recommendation Service](https://streamnative.io/blog/wechat-using-apache-pulsar-support-high-throughput-real-time-recommendation-service) by Shen Liu from **WeChat**.
+- [How Proxima Beta Implemented CQRS and Event Sourcing on Top of Apache Pulsar and ScyllaDB](https://streamnative.io/blog/how-proxima-beta-implemented-cqrs-event-sourcing-ofapache-pulsar-scylladb) by Lei Shi from Proxima Beta, part of **Tencent** Interactive Entertainment Group Global (IEG Global).
+- [600K Topics Per Cluster: Stability Optimization of Apache Pulsar at Tencent Cloud](https://streamnative.io/blog/600k-topics-per-cluster-stability-optimization-apache-pulsar-tencent-cloud) by Xiaolong Ran from **Tencent** Cloud.
+- [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/client-optimization-how-tencent-maintains-apache-pulsar-clusters-100-billion-messages-daily) by Mingyu Bao and Dawei Zhang from **Tencent** TEG Data Platform Department.
+- [How Apache Pulsar is Helping Iterable Scale its Customer Engagement Platform](https://streamnative.io/blog/how-apache-pulsar-is-helping-iterable-scale-its-customer-engagement-platform) by Greg Methvin from **Iterable**.
+- [Powering Federated Learning at Tencent with Apache Pulsar](https://streamnative.io/blog/powering-federated-learning-tencent-with-apache-pulsar) by Chao Zhang from **Tencent** Data Platform Department.
 
 ### For beginners
 
@@ -107,6 +112,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Streaming Data Pipelines with Pulsar IO](https://streamnative.io/blog/streaming-data-pipelines-pulsar-io) by Ioannis Polyzos.
 - [Scalable Stream Processing with Pulsar’s Key_Shared Subscription](https://streamnative.io/blog/scalable-stream-processing-pulsars-key-shared-subscription) by David Kjerrumgaard.
 - [Exactly-Once Semantics with Transactions in Pulsar](https://streamnative.io/blog/exactly-once-semantics-transactions-pulsar) by Penghui Li.
+- [Migrate to Serverless with Pulsar Functions](https://streamnative.io/blog/migrate-to-serverless-with-pulsar-functions) by Axel Sirota.
 
 ### Operations
 
@@ -118,8 +124,11 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Auto-Scaling Pulsar Functions in Kubernetes Using Custom Metrics](https://streamnative.io/blog/auto-scaling-pulsar-functions-kubernetes-using-custom-metrics) by Ran Gao.
 - [Pulsar Isolation Part IV: Single Cluster Isolation](https://streamnative.io/blog/pulsar-isolation-part-iv-single-cluster-isolation) by Ran Gao.
 - [Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster](https://streamnative.io/blog/pulsar-isolation-part-iii-separate-pulsar-clusters-sharing-single-bookkeeper-cluster) by Ran Gao.
+- [Pulsar Isolation Part II: Separate Pulsar Clusters](https://streamnative.io/blog/pulsar-isolation-part-ii-separate-pulsar-clusters) by Ran Gao and Yu Liu.
+- [Pulsar Isolation Part I: Taking an In-Depth Look at How to Achieve Isolation in Pulsar](https://streamnative.io/blog/pulsar-isolation-depth-look-how-to-achieve-isolation-in-pulsar) by Penghui Li and Yu Liu.
 - [10 Useful Pulsarctl Commands to Manage Your Cluster](https://streamnative.io/blog/10-useful-pulsarctl-commands-manage-cluster) by Aniket Bhattacharyea.
 - [Function Mesh - Simplify Complex Streaming Jobs in Cloud](https://streamnative.io/blog/function-mesh-simplify-complex-streaming-jobs-in-cloud) by Neng Lu and Rui Fu.
+- [Taking a Deep-Dive into Apache Pulsar Architecture for Performance Tuning](https://streamnative.io/blog/taking-a-deep-dive-into-apache-pulsar-architecture-for-performance-tuning) by Penghui Li and Devin Bost.
 
 ### Security
 
@@ -166,6 +175,12 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [What’s New in Apache Pulsar 2.6.4](https://streamnative.io/blog/new-apache-pulsar-2-6-4) by Yong Zhang. *🗓️ Jun 8, 2021*
 - [Announcing AMQP 1.0 Connector for Apache Pulsar](https://streamnative.io/blog/announcing-amqp-1-0-connector-for-apache-pulsar) by Ran Gao and Yu Liu. *🗓️ Apr 26, 2021*
 - [Call for Beta Users: Function Mesh Now Available for Pulsar Functions](https://streamnative.io/blog/call-for-beta-users-function-mesh-now-available-for-pulsar-functions) by Carolyn King. *🗓️ Apr 5, 2021*
+- [Announcing AWS SQS Connector for Apache Pulsar](https://streamnative.io/blog/announcing-aws-sqs-connector-for-apache-pulsar) by Yu Liu and Rui Fu. *🗓️ Mar 17, 2021*
+- [What's New in Apache Pulsar 2.7.0](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-7-0) by Penghui Li. *🗓️ Dec 25, 2020*
+- [What's New in Pulsar Flink Connector 2.7.0](https://streamnative.io/blog/whats-new-in-pulsar-flink-connector-2-7-0) by Jianyun Zhao and Jennifer Huang. *🗓️ Dec 24, 2020*
+- [Cloud-Native Apache Pulsar 2.7 Supports Transactions and Azure Blob Storage Offloader](https://streamnative.io/blog/cloud-native-apache-pulsar-2-7-supports-transactions-and-azure-blob-storage-offloader) by Penghui Li and Jennifer Huang. *🗓️ Dec 3, 2020*
+- [Apache Pulsar 2.6.2](https://streamnative.io/blog/apache-pulsar-2-6-2) by Xiaolong Ran. *🗓️ Nov 20, 2020*
+- [Introducing Cloud Storage Sink Connector - Streaming Data From Apache Pulsar to Cloud Objects](https://streamnative.io/blog/introducing-cloud-storage-sink-connector) by Jianyun Zhao. *🗓️ Oct 20, 2020*
 
 ## Events
 
