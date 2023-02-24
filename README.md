@@ -73,6 +73,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [Apache Pulsar vs. Apache Kafka 2022 Benchmark](https://streamnative.io/blog/apache-pulsar-vs-apache-kafka-2022-benchmark) by Matteo Merli and Penghui Li.
 - [Streaming War and How Apache Pulsar is Acing the Battle](https://streamnative.io/blog/streaming-war-and-how-apache-pulsar-is-acing-the-battle) by Shivji Kumar Jha and Sachidananda Maharana.
+- [StreamNative: Enabling Real-time Messaging and Streaming for the Cloud](https://streamnative.io/blog/enabling-real-time-messaging-and-streaming-for-the-cloud) by Sijie Guo and Matteo Merli.
+- [David Kjerrumgaard, Pulsar In Action Author, Talks All Things Pulsar](https://streamnative.io/blog/david-kjerrumgaard-pulsar-inauthor-talks-all-things-pulsar) by Carolyn King.
 
 #### Case studies
 
@@ -100,6 +102,10 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Streaming Real-Time Chat Messages into Scylla with Apache Pulsar](https://streamnative.io/blog/streaming-real-time-chat-messages-scylla-apache-pulsar) by Tim Spann.
 - [Apache Pulsar Client Application Best Practices](https://streamnative.io/blog/apache-pulsar-client-application-best-practices) by Ioannis Polyzos.
 - [Integrating Apache Pulsar with BigQuery](https://streamnative.io/blog/integrating-apache-pulsar-with-bigquery) by Ioannis Polyzos.
+- [Developing Event-Driven Microservices with Apache Pulsar: Part I](https://streamnative.io/blog/developing-event-driven-microservices-apache-pulsar-part-i) by Tim Spann.
+- [Building Edge Applications With Apache Pulsar](https://streamnative.io/blog/building-edge-applications-apache-pulsar) by Tim Spann.
+- [Streaming Data Pipelines with Pulsar IO](https://streamnative.io/blog/streaming-data-pipelines-pulsar-io) by Ioannis Polyzos.
+- [Scalable Stream Processing with Pulsar’s Key_Shared Subscription](https://streamnative.io/blog/scalable-stream-processing-pulsars-key-shared-subscription) by David Kjerrumgaard.
 
 ### Operations
 
@@ -108,6 +114,10 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Pulsar Operators Tutorial Part 1: Create an Apache Pulsar Cluster on Kubernetes](https://streamnative.io/blog/pulsar-operators-tutorial-part-1-create-apache-pulsar-cluster-kubernetes) by Yuwei Sung.
 - [Using Cloud Native Buildpacks to Improve the Function Image Building Capability of Function Mesh](https://streamnative.io/blog/using-cloud-native-buildpacks-improve-function-image-building-capability-function-mesh) by Tian Fang.
 - [Failure Is Not an Option: It Is a Given.](https://streamnative.io/blog/failure-is-not-an-option-it-is-a-given) by David Kjerrumgaard.
+- [Auto-Scaling Pulsar Functions in Kubernetes Using Custom Metrics](https://streamnative.io/blog/auto-scaling-pulsar-functions-kubernetes-using-custom-metrics) by Ran Gao.
+- [Pulsar Isolation Part IV: Single Cluster Isolation](https://streamnative.io/blog/pulsar-isolation-part-iv-single-cluster-isolation) by Ran Gao.
+- [Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster](https://streamnative.io/blog/pulsar-isolation-part-iii-separate-pulsar-clusters-sharing-single-bookkeeper-cluster) by Ran Gao.
+- [10 Useful Pulsarctl Commands to Manage Your Cluster](https://streamnative.io/blog/10-useful-pulsarctl-commands-manage-cluster) by Aniket Bhattacharyea.
 
 ### Security
 
@@ -119,8 +129,9 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [A Deep Dive into Transaction Coordinators in Apache Pulsar](https://streamnative.io/blog/deep-dive-transaction-coordinators-apache-pulsar) by Penghui Li and Bo Cong.
 - [A Deep Dive into the Topic Data Lifecycle in Apache Pulsar](https://streamnative.io/blog/deep-dive-into-topic-data-lifecycle-apache-pulsar) by Hang.
 - [Deep Dive into Data Placement Policies](https://streamnative.io/blog/deep-dive-into-data-placement-policies) by Hang.
-- [Pulsar Isolation Part IV: Single Cluster Isolation](https://streamnative.io/blog/pulsar-isolation-part-iv-single-cluster-isolation) by Ran Gao.
 - [Deep Dive into Message Chunking in Pulsar](https://streamnative.io/blog/deep-dive-into-message-chunking-in-pulsar) by Zike Yang.
+- [Tweaking the BookKeeper Protocol - Unbounded Ledgers](Tweaking the BookKeeper Protocol - Unbounded Ledgers) by Jack Vanlightly.
+- [Offset Implementation in Kafka-on-Pulsar](https://streamnative.io/blog/offset-implementation-kafka-pulsar) by Yunze Xu.
 
 ### Announcements
 
@@ -139,6 +150,10 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [What’s New in Apache Pulsar 2.9.2](https://streamnative.io/blog/new-apache-pulsar-2-9-2) by Ran Gao and Yu Liu. *🗓️ Apr 12, 2022*
 - [Cloudera and StreamNative Announce the Integration of Apache NiFi and Apache Pulsar](https://streamnative.io/blog/cloudera-streamnative-announce-integration-apache-nifi-tm-apache-pulsar-tm) by David Kjerrumgaard. *🗓️ Mar 9, 2022*
 - [Moving Toward a ZooKeeper-Less Apache Pulsar](https://streamnative.io/blog/moving-toward-zookeeper-less-apache-pulsar) by David Kjerrumgaard. *🗓️ Jan 25, 2022*
+- [What’s New in Apache Pulsar 2.7.4](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-7-4) by Yu Liu. *🗓️ Dec 14, 2021*
+- [Pulsar Hits 10,000 GitHub Stars Milestone](https://streamnative.io/blog/pulsar-hits-10-000-github-stars-milestone) by Alice Bi. *🗓️ Dec 7, 2021*
+- [What’s New in Apache Pulsar 2.8.1](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-8-1) by Yu Liu and Hang. *🗓️ Sep 23, 2021*
+- [What’s New in Apache Pulsar 2.7.3](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-7-3) by Bo Cong and Yu Liu. *🗓️ Aug 11, 2021*
 
 ## Events
 
@@ -147,7 +162,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - 🔜 [Pulsar Virtual Summit Europe 2023](https://pulsar-summit.org/)
 
 - [Pulsar Summit Asia 2022](https://pulsar-summit.org/event/asia-2022)
-  - [Pulsar Summit Asia 2022 Recap](https://streamnative.io/blog/pulsar-summit-asia-2022-recap)
+  - [Pulsar Summit Asia 2022 Recap](https://streamnative.io/blog/pulsar-summit-asia-2022-recap) by Sherlock Xu.
   - [Opening Remarks - Day 2](https://youtu.be/pL6DjQ2n4v0). Sherlock Xu.
   - [Keynote - Event-Driven Applications Done Right](https://youtu.be/vwLxV48JhbQ). Matteo Merli.
   - [Handling 100K Consumers with One Topic: Practices and Technical Details](https://youtu.be/o6Dt_LZCd3U). Hongjie Zhai.
@@ -190,7 +205,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Using Pulsar in Apache ShenYu to Store and Publish Access Logs](https://youtu.be/2N6xFSysM-g). Bowen Li. 🇨🇳
 
 - [Pulsar Summit San Francisco 2022](https://pulsar-summit.org/event/san-francisco-2022)
-  - [Pulsar Summit SF 2022: Community Event Recap](https://streamnative.io/blog/pulsar-summit-sf-2022-community-event-recap)
+  - [Pulsar Summit SF 2022: Community Event Recap](https://streamnative.io/blog/pulsar-summit-sf-2022-community-event-recap) by Kristin Crosier.
   - [Sizzle Reel](https://youtu.be/VoB5witRLmM)
   - [Opening Remarks](https://youtu.be/_2Q1ED0-eoE). Carolyn King.
   - [Event-Driven Applications Done Right](https://youtu.be/naykSkyUlRM). Sijie Guo, Metteo Merli.
@@ -236,8 +251,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [The Practice of Apache Pulsar for Logging in China Mobile](https://youtu.be/ZrxPvWa3muw). Jialing Wang. 🇨🇳
   - [A New Transport Plugin for Apache SkyWalking Using Apache Pulsar](https://youtu.be/hS8EXrlICdw). Haochao Zhuang. 🇨🇳
 
-
-- [Pulsar Virtual Summit Europe 2021](https://pulsar-summit.org/event/europe-2021)
+- [Pulsar Virtual Summit Europe 2021](https://pulsar-summit.org/event/europe-2021) by Alice Bi.
+  - [Highlights from the Pulsar Virtual Summit Europe 2021](https://streamnative.io/blog/highlights-the-pulsar-virtual-summit-europe-2021)
   - [Supporting the Entire Lifecycle of Streaming Data](https://youtu.be/lXwRp3o4X_U). Metteo Merli.
   - [A Foundation Backbone for Clever Cloud](https://youtu.be/-pQ6zRz6ij8). Quentin Adam.
   - [Pulsar in the Lakehouse: Apache Pulsar with Apache Spark and Delta Lake](https://youtu.be/SJn53RH7-ws). Ryan Zhu, Addison Higham.
