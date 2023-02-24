@@ -106,6 +106,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Building Edge Applications With Apache Pulsar](https://streamnative.io/blog/building-edge-applications-apache-pulsar) by Tim Spann.
 - [Streaming Data Pipelines with Pulsar IO](https://streamnative.io/blog/streaming-data-pipelines-pulsar-io) by Ioannis Polyzos.
 - [Scalable Stream Processing with Pulsar’s Key_Shared Subscription](https://streamnative.io/blog/scalable-stream-processing-pulsars-key-shared-subscription) by David Kjerrumgaard.
+- [Exactly-Once Semantics with Transactions in Pulsar](https://streamnative.io/blog/exactly-once-semantics-transactions-pulsar) by Penghui Li.
 
 ### Operations
 
@@ -118,6 +119,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Pulsar Isolation Part IV: Single Cluster Isolation](https://streamnative.io/blog/pulsar-isolation-part-iv-single-cluster-isolation) by Ran Gao.
 - [Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster](https://streamnative.io/blog/pulsar-isolation-part-iii-separate-pulsar-clusters-sharing-single-bookkeeper-cluster) by Ran Gao.
 - [10 Useful Pulsarctl Commands to Manage Your Cluster](https://streamnative.io/blog/10-useful-pulsarctl-commands-manage-cluster) by Aniket Bhattacharyea.
+- [Function Mesh - Simplify Complex Streaming Jobs in Cloud](https://streamnative.io/blog/function-mesh-simplify-complex-streaming-jobs-in-cloud) by Neng Lu and Rui Fu.
 
 ### Security
 
@@ -127,11 +129,13 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [Improving Regular Expression-Based Subscriptions in Pulsar Consumers](https://streamnative.io/blog/improving-regular-expression-based-subscriptions-pulsar-consumers) by Andras Beni.
 - [A Deep Dive into Transaction Coordinators in Apache Pulsar](https://streamnative.io/blog/deep-dive-transaction-coordinators-apache-pulsar) by Penghui Li and Bo Cong.
+- [A Deep-dive of Transactions in Apache Pulsar](https://streamnative.io/blog/deep-dive-transactions-apache-pulsar) by Penghui Li.
 - [A Deep Dive into the Topic Data Lifecycle in Apache Pulsar](https://streamnative.io/blog/deep-dive-into-topic-data-lifecycle-apache-pulsar) by Hang.
 - [Deep Dive into Data Placement Policies](https://streamnative.io/blog/deep-dive-into-data-placement-policies) by Hang.
 - [Deep Dive into Message Chunking in Pulsar](https://streamnative.io/blog/deep-dive-into-message-chunking-in-pulsar) by Zike Yang.
-- [Tweaking the BookKeeper Protocol - Unbounded Ledgers](Tweaking the BookKeeper Protocol - Unbounded Ledgers) by Jack Vanlightly.
+- [Tweaking the BookKeeper Protocol - Unbounded Ledgers](https://streamnative.io/blog/tweaking-the-bookkeeper-protocol-unbounded-ledgers) by Jack Vanlightly.
 - [Offset Implementation in Kafka-on-Pulsar](https://streamnative.io/blog/offset-implementation-kafka-pulsar) by Yunze Xu.
+
 
 ### Announcements
 
@@ -154,6 +158,14 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Pulsar Hits 10,000 GitHub Stars Milestone](https://streamnative.io/blog/pulsar-hits-10-000-github-stars-milestone) by Alice Bi. *🗓️ Dec 7, 2021*
 - [What’s New in Apache Pulsar 2.8.1](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-8-1) by Yu Liu and Hang. *🗓️ Sep 23, 2021*
 - [What’s New in Apache Pulsar 2.7.3](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-7-3) by Bo Cong and Yu Liu. *🗓️ Aug 11, 2021*
+- [Apache Pulsar Launches 2.8: Unified Messaging and Streaming With Transactions](https://streamnative.io/blog/apache-pulsar-launches-2-8-unified-messaging-streaming-transactions) by Matteo Merli and Sijie Guo. *🗓️ Jun 15, 2021*
+- [Pulsar Hits Its 400th Contributor & Passes Kafka in Monthly Active Contributors](https://streamnative.io/blog/pulsar-hits-400th-contributor-passes-kafka-monthly-active-contributors) by Carolyn King and Alice Bi. *🗓️ Jun 14, 2021*
+- [Pulsar User Survey 2021 Highlights](https://streamnative.io/blog/pulsar-user-survey-2021-highlights) by Carolyn King. *🗓️ Jun 11, 2021*
+- [2021 Apache Pulsar User Report Announcement](https://streamnative.io/blog/2021-apache-pulsar-user-report-announcement) by Sijie Guo and Carolyn King. *🗓️ Jun 10, 2021*
+- [Matteo Merli, Apache Pulsar PMC Chair, Joins StreamNative as CTO](https://streamnative.io/blog/matteo-merli-apache-pulsar-pmc-chair-joins-streamnative-cto) by Carolyn King. *🗓️ Jun 8, 2021*
+- [What’s New in Apache Pulsar 2.6.4](https://streamnative.io/blog/new-apache-pulsar-2-6-4) by Yong Zhang. *🗓️ Jun 8, 2021*
+- [Announcing AMQP 1.0 Connector for Apache Pulsar](https://streamnative.io/blog/announcing-amqp-1-0-connector-for-apache-pulsar) by Ran Gao and Yu Liu. *🗓️ Apr 26, 2021*
+- [Call for Beta Users: Function Mesh Now Available for Pulsar Functions](https://streamnative.io/blog/call-for-beta-users-function-mesh-now-available-for-pulsar-functions) by Carolyn King. *🗓️ Apr 5, 2021*
 
 ## Events
 
@@ -267,6 +279,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
   - [Opening Remarks](https://youtu.be/df2Na6eulks). Carolyn King.
 
 - [Pulsar Summit North America 2021](https://pulsar-summit.org/event/north-america-2021)
+  - [Highlights from The Pulsar Virtual Summit North America 2021](https://streamnative.io/blog/highlights-pulsar-virtual-summit-north-america-2021) by Carolyn King.
   - [Keynote - Why Unified Messaging and Streaming Is the Future](https://youtu.be/-Bm1h508oIQ). Matteo Merli, Sijie Guo.
   - [Exactly Once Made Easy Transactional Messaging in Apache Pulsar](https://youtu.be/tnWq8opMI6s). Sijie Guo, Addison Higham.
   - [How Pulsar Stores Your Data](https://youtu.be/xIibbB5Y0MM). Shivji Kumar Jha.
