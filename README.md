@@ -184,6 +184,11 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ## Events
 
+### Meetup groups
+
+- [🇺🇸 New York City Apache Pulsar Meetup](https://www.meetup.com/new-york-city-apache-pulsar-meetup/)
+- [🇺🇸 SF Bay Area Apache Pulsar Meetup](https://www.meetup.com/sf-bay-area-apache-pulsar-meetup/)
+
 ### [Pulsar Summit](https://pulsar-summit.org/)
 
 - 🔜 [Pulsar Virtual Summit Europe 2023](https://pulsar-summit.org/)
