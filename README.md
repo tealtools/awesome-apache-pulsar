@@ -95,6 +95,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Powering Tencent Billing Platform with Apache Pulsar](https://streamnative.io/blog/powering-tencent-billing-platform-with-apache-pulsar) by Dezhi Liu from **Tencent**.
 - [Apache Pulsar Adoption Story in ActorCloud (IoT Platform)](https://streamnative.io/blog/apache-pulsar-adoption-story-in-actorcloud-iot-platform) by Rocky Jin.
 - [Build a Priority-based Push Notification System Using Apache Pulsar at GeTui](https://streamnative.io/blog/getui-push-notification-system) by Zi Xiang from **Getui**.
+- [Simplifying Zhaopin’s Event Center with Apache Pulsar](https://streamnative.io/blog/simplifying-zhaopins-event-center-apache-pulsar) by Penghui Li.
 
 ### For beginners
 
@@ -155,6 +156,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Tweaking the BookKeeper Protocol - Unbounded Ledgers](https://streamnative.io/blog/tweaking-the-bookkeeper-protocol-unbounded-ledgers) by Jack Vanlightly.
 - [Offset Implementation in Kafka-on-Pulsar](https://streamnative.io/blog/offset-implementation-kafka-pulsar) by Yunze Xu.
 - [A Deep Dive into Transaction Buffer in Apache Pulsar](https://streamnative.io/blog/deep-dive-into-transaction-buffer-apache-pulsar) by Xiangying Meng.
+- [Achieving Broker Load Balancing with Apache Pulsar](https://streamnative.io/blog/achieving-broker-load-balancing-apache-pulsar) by Heesung Sohn and Kai Wang.
 
 ### Announcements
 
