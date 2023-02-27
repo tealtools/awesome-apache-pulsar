@@ -77,6 +77,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Pulsar vs Kafka - Part 2 - Adoption, Use Cases, Differentiators, and Community](https://streamnative.io/blog/pulsar-vs-kafka-part-2-adoption-use-cases-differentiators-and-community) by Carolyn King, Addison Higham, and Sijie Guo.
 - [Apache Pulsar Adoption: Why Companies Use the Streaming and Messaging Platform](https://streamnative.io/blog/apache-pulsar-adoption-why-companies-use-streaming-messaging-platform) by Carolyn King, Addison Higham, and Sijie Guo.
 - [A Guide to Apache Pulsar: Compare Features and Architecture to Apache Kafka](https://streamnative.io/blog/guide-apache-pulsar-compare-features-architecture-to-apache-kafka) by Carolyn King, Sijie Guo, and Addison Higham.
+- [One Storage System for both Real-time and Historical Data Analysis - An Apache Pulsar story](https://streamnative.io/blog/one-storage-system-both-real-time-historical-data-analysis-apache-pulsar-story) by Yijie Shen.
 
 #### Case studies
 
@@ -88,6 +89,12 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [How Apache Pulsar is Helping Iterable Scale its Customer Engagement Platform](https://streamnative.io/blog/how-apache-pulsar-is-helping-iterable-scale-its-customer-engagement-platform) by Greg Methvin from **Iterable**.
 - [Powering Federated Learning at Tencent with Apache Pulsar](https://streamnative.io/blog/powering-federated-learning-tencent-with-apache-pulsar) by Chao Zhang from **Tencent** Data Platform Department.
 - [How Apache Pulsar Helps Streamline Message System and Reduces O&M Costs at Tuya Smart](https://streamnative.io/blog/how-apache-pulsar-helps-streamline-message-system-reduces-o-m-costs-at-tuya-smart) by Yong Zhang from **Tuya Smart**.
+- [Why we moved from Apache Kafka to Apache Pulsar](https://streamnative.io/blog/moved-from-apache-kafka-to-apache-pulsar) by Simba Khadder from **streamsql.io**.
+- [Apache Pulsar Helps Tencent Process Tens of Billions of Financial Transactions Efficiently with Virtually No Data Loss](https://streamnative.io/blog/apache-pulsar-helps-tencent-process-tens-of-billions-of-financial-transactions) by Dezhi Liu from **Tencent**.
+- [How Orange Financial combats financial fraud in over 50M transactions a day using Apache Pulsar](https://streamnative.io/blog/how-orange-financial-combats-financial-fraud-using-apache-pulsar) by Vincent Xie from **Orange Financial**.
+- [Powering Tencent Billing Platform with Apache Pulsar](https://streamnative.io/blog/powering-tencent-billing-platform-with-apache-pulsar) by Dezhi Liu from **Tencent**.
+- [Apache Pulsar Adoption Story in ActorCloud (IoT Platform)](https://streamnative.io/blog/apache-pulsar-adoption-story-in-actorcloud-iot-platform) by Rocky Jin.
+- [Build a Priority-based Push Notification System Using Apache Pulsar at GeTui](https://streamnative.io/blog/getui-push-notification-system) by Zi Xiang from **Getui**.
 
 ### For beginners
 
@@ -117,6 +124,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Announcing MQTT-on-Pulsar: Bringing Native MQTT Protocol Support to Apache Pulsar](https://streamnative.io/blog/announcing-mqtt-on-pulsar) by Penghui Li and Xiaolong Ran.
 - [Announcing AMQP-on-Pulsar: bring native AMQP protocol support to Apache Pulsar](https://streamnative.io/blog/amqp-pulsar-bring-native-amqp-protocol-support-to-apache-pulsar) by Penghui Li, Ran Gao, and Zongtang Hu.
 - [How to trace Pulsar messages with OpenTracing and Jaeger](https://streamnative.io/blog/how-to-trace-pulsar-messages-with-opentracing-jaeger) by Penghui Li.
+- [Use Apache SkyWalking to Trace Apache Pulsar Messages](https://streamnative.io/blog/use-apache-skywalking-to-trace-apache-pulsar-messages) by Penghui Li.
+- [Use Apache Pulsar as Streaming Table with 8 Lines of Code](https://streamnative.io/blog/use-apache-pulsar-as-streaming-table-with-8-lines-of-code) by Yijie Shen.
 
 ### Operations
 
@@ -145,6 +154,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Deep Dive into Message Chunking in Pulsar](https://streamnative.io/blog/deep-dive-into-message-chunking-in-pulsar) by Zike Yang.
 - [Tweaking the BookKeeper Protocol - Unbounded Ledgers](https://streamnative.io/blog/tweaking-the-bookkeeper-protocol-unbounded-ledgers) by Jack Vanlightly.
 - [Offset Implementation in Kafka-on-Pulsar](https://streamnative.io/blog/offset-implementation-kafka-pulsar) by Yunze Xu.
+- [A Deep Dive into Transaction Buffer in Apache Pulsar](https://streamnative.io/blog/deep-dive-into-transaction-buffer-apache-pulsar) by Xiangying Meng.
 
 ### Announcements
 
@@ -187,10 +197,19 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Apache Pulsar 2.6.0](https://streamnative.io/blog/apache-pulsar-2-6-0) by Penghui Li. *🗓️ Jun 18, 2020*
 - [Apache Pulsar 2.5.2](https://streamnative.io/blog/apache-pulsar-2-5-2) by Jia Zhai. *🗓️ May 20, 2020*
 - [Apache Pulsar 2.5.1](https://streamnative.io/blog/apache-pulsar-2-5-1) by Guangning E. *🗓️ Apr 23, 2020*
+- [Announcing Kafka-on-Pulsar: bring native Kafka protocol support to Apache Pulsar](https://streamnative.io/blog/kafka-on-pulsar-bring-native-kafka-protocol-support-to-apache-pulsar) by Sijie Guo, Jia Zhai, and Pierre Zemb. *🗓️ Mar 24, 2020*
+- [Announcing: The Apache Pulsar 2020 User Survey Report](https://streamnative.io/blog/apache-pulsar-2020-user-survey-report) by Sijie Guo. *🗓️ Mar 17, 2020*
+- [Pulsar Milestone Celebration — 200 Contributors!](https://streamnative.io/blog/pulsar-milestone-celebration-200-contributors) by Yu Liu. *🗓️ Dec 20, 2019*
+- [What's New in Apache Pulsar 2.4.2](https://streamnative.io/blog/whats-new-in-apache-pulsar-2-4-2) by Xiaolong Ran. *🗓️ Dec 4, 2019*
+- [Introduction to Pulsarctl](https://streamnative.io/blog/introduction-to-pulsarctl) by Yong Zhang. *🗓️ Nov 6, 2019*
+- [StreamNative open sourced and contributed Apache Pulsar Manager to ASF](https://streamnative.io/blog/streamnative-open-sourced-and-contributed-apache-pulsar-manager-to-asf) by Guangning E. *🗓️ Sep 24, 2019*
+- [What's New in Apache Pulsar 2.4.0](https://streamnative.io/blog/new-in-apache-pulsar-2-4-0) by Sijie Guo. *🗓️ Jul 9, 2019*
 
 ### Uncategorized
 
 - [How to Build a Distributed Database with Apache BookKeeper — Part 3](https://streamnative.io/blog/how-to-build-distributed-database-apache-bookkeeper-part-3) by Enrico Olivelli.
+- [How to Build a Distributed Database with Apache BookKeeper — Part 2](https://streamnative.io/blog/how-to-build-distributed-database-apache-bookkeeper-part-2) by Enrico Olivelli.
+- [How to Build a Distributed Database with Apache BookKeeper - Part 1](https://streamnative.io/blog/how-to-build-distributed-database-apache-bookkeeper-part-1) by Enrico Olivelli.
 
 ## Events
 
