@@ -4,6 +4,8 @@
 
 Apache® Pulsar™ is an open-source, distributed messaging and streaming platform built for the cloud.
 
+**Interested in Pulsar news?** Check out [📨 Pulsar Weekly](https://pulsarweekly.vercel.app/), an unofficial newsletter that brings you news about the development of Apache Pulsar and its open and inclusive community.
+
 <a href="https://sessionize.com/pulsar-virtual-summit-europe-2023" target="_blank">
   <img src="https://raw.githubusercontent.com/tealtools/awesome-apache-pulsar/main/announcement.svg" />
 </a>
@@ -11,8 +13,6 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 [🏠 Official website](https://pulsar.apache.org/)
 
 [📚 Documentation](https://pulsar.apache.org/docs/)
-
-[📨 Pulsar Weekly](https://pulsarweekly.vercel.app/) - an unofficial newsletter that brings you news about the development of Apache Pulsar and its open and inclusive community.
 
 [📝 Release notes](https://pulsar.apache.org/release-notes/)
 
