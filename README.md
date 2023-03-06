@@ -12,6 +12,8 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 [📚 Documentation](https://pulsar.apache.org/docs/)
 
+[📨 Pulsar Weekly](https://pulsarweekly.vercel.app/) - an unofficial newsletter that brings you news about the development of Apache Pulsar and its open and inclusive community.
+
 [📝 Release notes](https://pulsar.apache.org/release-notes/)
 
 ## 🗣 Community
