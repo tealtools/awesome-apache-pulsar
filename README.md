@@ -62,7 +62,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 ## 🛟 Support providers
 
-- [StreamNative Cloud](https://streamnative.io)
+- [StreamNative](https://streamnative.io)
 - [DataStax](https://datastax.com)
 - [Dattell](https://dattell.com/)
 
