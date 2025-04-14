@@ -100,6 +100,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 - [Apache Pulsar Adoption Story in ActorCloud (IoT Platform)](https://streamnative.io/blog/apache-pulsar-adoption-story-in-actorcloud-iot-platform) by Rocky Jin.
 - [Build a Priority-based Push Notification System Using Apache Pulsar at GeTui](https://streamnative.io/blog/getui-push-notification-system) by Zi Xiang from **Getui**.
 - [Simplifying Zhaopin’s Event Center with Apache Pulsar](https://streamnative.io/blog/simplifying-zhaopins-event-center-apache-pulsar) by Penghui Li.
+- [Goodbye Distributed Locks: Message Orchestration at Scale with Apache Pulsar](https://tech.attentive.com/articles/goodbye-distributed-locks) by Danish Rehman And Arash Rakhshan from **Attentive**.
 
 ### For beginners
 
